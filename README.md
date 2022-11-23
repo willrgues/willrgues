@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" width="100" height="" src="https://media.tenor.com/ezk10TtQiCUAAAAi/club-penguin-club-penguin-dance.gif">
+<img align="left" width="100" height="" src="https://media.tenor.com/ezk10TtQiCUAAAAi/club-penguin-club-penguin-dance.gif">
 
 <!--
 **willrgues/willrgues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
